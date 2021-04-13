@@ -1,4 +1,4 @@
-package com.example.emos.wx.common.utils;
+package com.example.emos.wx.common.util;
 
 import org.apache.http.HttpStatus;
 import java.util.HashMap;
